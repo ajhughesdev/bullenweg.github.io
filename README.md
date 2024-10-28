@@ -1,3 +1,12 @@
+**Disclaimer**
+This repository, its content, and contributions are provided solely for informational and satirical purposes. The information contained within is based on publicly available data and does not intend to defame, harm, or injure any individual, organization, or entity. The contributors and maintainers of this repository do not verify the accuracy of the content, and all opinions expressed are solely those of the respective contributors.
+
+**No Legal Advice**: The material in this repository is not intended as legal advice and should not be construed as such. Users should seek legal counsel for any legal matters they may encounter.
+
+Copyright and Fair Use: This repository may contain material created by third parties, including images, quotes, and other media, used under fair use provisions for commentary, criticism, and educational purposes. This repository is not affiliated with or endorsed by any parties discussed herein.
+
+*By accessing this repository, you agree to indemnify and hold harmless the maintainers and contributors from any and all claims, damages, or liabilities arising from your use of the information provided.*
+
 # Matt Mullenweg's Bull(enweg)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io) [![GitHub last commit](https://img.shields.io/github/last-commit/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io)
